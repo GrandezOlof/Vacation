@@ -347,7 +347,7 @@ export default class Vacation extends React.Component<IVacationProps,IVacationSt
                 context={this.props.context}
                 titleText="Ansvarig"
                 personSelectionLimit={1}
-                groupName={"Ägare av Min Teamsite"}
+                groupName={"MyDeveleporSite Owners"}
                 showtooltip={true}
                 isRequired={true}
                 disabled={false}
@@ -395,7 +395,7 @@ export default class Vacation extends React.Component<IVacationProps,IVacationSt
                   context={this.props.context}
                   titleText="Ansvarig"
                   personSelectionLimit={1}
-                  groupName={"Ägare av Min Teamsite"}
+                  groupName={"MyDeveleporSite Owners"}
                   showtooltip={true}
                   isRequired={true}
                   disabled={false}
